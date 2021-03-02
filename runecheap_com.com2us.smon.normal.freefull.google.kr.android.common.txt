@@ -19,7 +19,7 @@ If Any Problem, Reboot your device, Reinstall The Game And Patch it Again.
 - iAndroHackerDK (for the tutorial)
 
 [LIB]
-{"name":"libc2ssmon.so"}
+{"name":}
 
 {"original":"00 B5 83 B0 45 F7 D8 FB 00 23"}
 {"replaced":"00 20 70 47 ?? ?? ?? ?? ?? ??"}
